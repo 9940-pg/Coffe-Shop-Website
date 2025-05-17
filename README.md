@@ -4,12 +4,12 @@
 
 
 ## screenshots
-[Screenshot 22](screenshots/Screenshot%20(29).png)
-![Screenshot 23](screenshots/Screenshot%20(30).png) 
-![Screenshot 24](screenshots/Screenshot%20(31).png)
-![Screenshot 25](screenshots/Screenshot%20(32).png)
-![Screenshot 26](screenshots/Screenshot%20(34).png)
-![Screenshot 27](screenshots/Screenshot%20(35).png)
+[Screenshot 22](Screenshot/Screenshot%20(29).png)
+![Screenshot 23](Screenshot/Screenshot%20(30).png) 
+![Screenshot 24](Screenshot/Screenshot%20(31).png)
+![Screenshot 25](Screenshot/Screenshot%20(32).png)
+![Screenshot 26](Screenshot/Screenshot%20(34).png)
+![Screenshot 27](Screenshot/Screenshot%20(35).png)
 
 
 
